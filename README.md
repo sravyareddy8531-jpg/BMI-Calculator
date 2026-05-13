@@ -38,6 +38,5 @@ python bmi.py
 4. View BMI result
 
 ---
-
 ## Author
-Sisindri
+Sravya
